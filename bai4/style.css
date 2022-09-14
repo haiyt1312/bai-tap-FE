@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 960px;
+    height: 200px;
+    background-image: url(./a.jpg);
+    background-size: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+li{
+    width: 25%;
+    float: left;
+    list-style: none;
+    margin-top: 10px;
+}
+ul{
+    text-align: center;
+    margin: 0 150px;
+}
+.icon{
+    font-size: 30px;
+    color: #FFF;
+}
+h1, h5{
+    color: #FFF;
+    font-weight: 400;
+    margin-top: 20px;
+}

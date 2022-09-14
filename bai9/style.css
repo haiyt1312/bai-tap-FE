@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1200px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+}
+img{
+    height: 100px;
+    margin-bottom: 10px;
+}
+.content{
+    width: 50%;
+    float: left;
+}
+h1{
+    margin: 50px;
+    color: #FFE37B;
+}
+p{
+    margin: 0 50px 50px 50px;
+    font-style: italic;
+}
